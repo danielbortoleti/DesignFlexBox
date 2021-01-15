@@ -13,7 +13,7 @@
  ## <h1 align="center"><strong>Project on Mobile</strong>
  
 </h1>
- <img align="center" src="assets\images\mobile.gif">
+ <div align="center"><img src="assets\images\mobile.gif"></div>
 
 
 ## <h2 align="center"><strong>🔨 Tools </strong> 
